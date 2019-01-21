@@ -3,7 +3,7 @@
 1. 代码使用HTML5,CSS3,jQuery编辑,主要使用CSS3动画完成
 2. 编写时间2015年12月
 
-![](https://www.showdoc.cc/server/api/common/visitfile/sign/594c25b7c74ed87e82199d9f705ffd7c?showdoc=.jpg)![](https://www.showdoc.cc/server/api/common/visitfile/sign/3cfc1dc01e4b44c80add7c502e45a645?showdoc=.jpg)
+![](https://www.showdoc.cc/server/api/common/visitfile/sign/594c25b7c74ed87e82199d9f705ffd7c?showdoc=.jpg) ![](https://www.showdoc.cc/server/api/common/visitfile/sign/3cfc1dc01e4b44c80add7c502e45a645?showdoc=.jpg)
 
 ##### 1.适配768px Pad以上屏幕,编辑环境尺寸为iPhone 6分辨率
 ```css
